@@ -1,0 +1,28 @@
+.cmb-row.cmb-type-select.cmb2-id-cclw-checkout-ordertable {
+    pointer-events: none !important;
+    opacity: 0.5;
+}
+.menu_pro_feature ul{
+    list-style: square;
+    padding: 10px;
+}
+#cclw_custom_checkout .cmb2-wrap.form-table {
+    width: 70%;
+    float: left;
+	padding-right: 10px;
+    box-sizing: border-box;
+}
+#cclw_custom_checkout .cclw_elementor_checkout_panel {
+    width: 30%;
+    padding: 10px;
+	box-sizing: border-box;
+    text-align: center;
+    float: left;
+	border: 4px solid #0c7ece;
+}
+ul.elementor_checkout_ul {
+    list-style: square;
+    padding-inline-start: 30px;
+    text-align: left;
+}
+
